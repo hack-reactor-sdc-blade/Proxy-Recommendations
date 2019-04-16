@@ -1,2 +1,2 @@
 # Proxy-Recommendations
-Proxy server for AirBnB clone "Recommendations" service
+Proxy server for Airbnb clone "Recommendations" service
